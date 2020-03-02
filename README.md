@@ -1,2 +1,2 @@
 # covertest
-Go test coverage tool testing
+Go test coverage tools testing
